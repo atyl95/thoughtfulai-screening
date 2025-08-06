@@ -1,1 +1,0 @@
-# thoughtfulai-screening
