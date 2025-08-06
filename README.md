@@ -54,16 +54,6 @@ Run all tests:
 npm test
 ```
 
-Watch mode for development:
-```bash
-npm run test:watch
-```
-
-Test coverage report:
-```bash
-npm run test:coverage
-```
-
 ## Implementation Details
 
 ### Main Functions
